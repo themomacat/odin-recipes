@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    
+    }
+
+.heading {
+    font-size: 36px;
+    font-family:'Courier New', Courier, monospace;
+    color:black;
+    background-color: white;
+    text-align: center;
+}
+.button .recipe {
+    font-size: 30px;
+    color:black;
+    background-color:rgb(103, 126, 126);
+}
